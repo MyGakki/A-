@@ -60,6 +60,12 @@
   <ItemGroup>
      <Compile Include="Assets\Scripts\AStartManager.cs" />
      <Compile Include="Assets\Scripts\AStartNode.cs" />
+     <Compile Include="Assets\Scripts\UIViewFrame\BaseManager.cs" />
+     <Compile Include="Assets\Scripts\UIViewFrame\MonoBehaviourSingleton.cs" />
+     <Compile Include="Assets\Scripts\UIViewFrame\SO_UIViewConfig.cs" />
+     <Compile Include="Assets\Scripts\UIViewFrame\UIViewBase.cs" />
+     <Compile Include="Assets\Scripts\UIViewFrame\UIViewLayerController.cs" />
+     <Compile Include="Assets\Scripts\UIViewFrame\UIViewManager.cs" />
  <Reference Include="Unity.Timeline.Editor">
  <HintPath>F:/UnityLearnGame/A星算法/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
  </Reference>
